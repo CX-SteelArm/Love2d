@@ -1,10 +1,8 @@
 function polygon(...)
 	if #arg < 3 then
 		print('Entry number should be even and more than 2.')
-		return 
-	end
 	
-	if #arg == 4 then
+	elseif #arg == 4 then
 		-- 'A segment'
 		local v1 = {arg[1],arg[2]}
 		local v2 = {arg[3],arg[4]}
@@ -28,5 +26,5 @@ function polygon(...)
 		return poly
 	end
 	
-
+	return 
 end
