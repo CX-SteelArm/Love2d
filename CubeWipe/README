@@ -1,0 +1,7 @@
+A block game.
+
+You need to find a rectangle whose four vertexs has the same color, and then wipe them.
+
+Click the four vertexes, or only the two in the diagonal.
+
+If you forget where you have clicked, right click at any lattice to clear the memory.
