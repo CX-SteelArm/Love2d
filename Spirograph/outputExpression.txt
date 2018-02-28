@@ -1,0 +1,3 @@
+x = int(80*cos(a*-11)+110*cos(a))
+y = int(80*sin(a*-11)-110*sin(a))
+maxdegree = 360

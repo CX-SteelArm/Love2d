@@ -1,0 +1,29 @@
+Create some colorful symmetric figures!
+
+---------------------
+Gspot.lua is used as a GUI library. (I really love it)
+
+bullet.png is from a touhou game
+---------------------
+
+-> Picks
+Method: Symmetrical manner.
+
+Dimension: dimensions to draw, 1 to 8.
+
+Color Pick: now support 7 different colors.
+
+Dis select: the minimum distance between two continuous bullets.
+
+-> Buttons
+screenShot: screenshot.
+
+Clear: clear the canvas.
+
+Grid: hide/show the crossed line.
+
+Back: back to the front step.
+
+Save: save the data of points into data.lua
+
+Load: load data from data.lua

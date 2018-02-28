@@ -1,0 +1,24 @@
+
+Spirograph is a well-known toy which can generate many splendid curves by a pencil, an outer plate and a round or irregular-shaped plate with small holes in it. These curves are named as hypotrochoid (内转迹线 in Chinese) in mathematics.
+
+This program is a very simple simulation of the hypotrochoid.
+
+Gspot.lua is a GUI library, I have modified it to fit the needs.
+
+Parameters:
+
+R: Radius of the outer plate(a circle).
+
+r: Radius of the inner plate(a circle).
+
+d: distance between the hole and the center of the inner plate.
+
+Buttons:
+
+screenShot: screenshot.
+
+saveExpre: save the expression of the current curve. (saved in outputExpression.txt)
+
+Grid: show/hide the frame.
+
+codes in __main.lua can support ellipse inner plate.
